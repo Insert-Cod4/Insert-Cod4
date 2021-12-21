@@ -1,4 +1,4 @@
-### Hi there 👋, my name is <a href="https://www.linkedin.com/in/arnulfo-flor4/">Arnold</a>
+### Hi, I'm Arnold, and welcome to my GitHub bio. <a href="https://www.linkedin.com/in/arnulfo-flor4/">Arnold</a>
 #### I am GitHub Readme Generator's creator
 
 Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
