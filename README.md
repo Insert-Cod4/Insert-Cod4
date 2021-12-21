@@ -9,7 +9,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <h3 align="left">📝 Languages and Tools:</h3>
 <hr/>
-<div align="center">
+<div>
 <p align="center"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
  
