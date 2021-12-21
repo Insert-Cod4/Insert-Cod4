@@ -9,7 +9,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <h3 align="left">📝 Languages and Tools:</h3>
 <hr/>
-<div>
+
 <p align="center"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
  
@@ -28,5 +28,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
  </p>
   
-</div>
 
